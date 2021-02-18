@@ -27,3 +27,29 @@ We have been discussing tokens, tokenomics, and tokens' ability to represent a s
 * Remember that a token can be used to represent virtually any store of value.
 
 * When brainstorming, consider the 5 Pillars of Open Blockchain: Open, Neutral, Borderless, Censor Resistant, and Public while developing your token concepts.
+
+
+## Solution
+
+### Fungible
+
+* All crypto
+
+* Foreign currency exchange
+
+
+### Non-Fungible
+
+* Land
+
+* Cars
+
+* [Cryptokitties](https://www.cryptokitties.co/)
+
+* [Cryptograph](https://www.cryptograph.co/)
+
+* [Handshake](https://handshake.org/)
+
+* [knownOrigin](https://knownorigin.io/)
+
+* [SoRare](https://sorare.com/)

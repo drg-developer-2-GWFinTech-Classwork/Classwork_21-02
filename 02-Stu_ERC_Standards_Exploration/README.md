@@ -29,3 +29,17 @@ In this activity, you will be exploring the various token standards.
 ## Hints
 
 * Remember that only the ERC's under the `Final` section are officially accepted ERC's.
+
+
+## Solution
+
+### Fungible EIP's
+
+* 20
+* 777
+* 1155
+
+### Non-Fungible EIP's
+
+* 721
+* 1155
